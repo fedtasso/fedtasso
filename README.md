@@ -4,7 +4,7 @@ Soy un profesional con 15 años de experiencia liderando proyectos educativos, a
 
 Como docente, desarrollé habilidades clave para explicar conceptos técnicos de manera clara, adaptarme a entornos dinámicos y colaborar con equipos multidisciplinarios.  
 
-## 💻 Especialización en Backend  
+## Especialización en Backend  
 
 Me especializo en:  
 
@@ -14,8 +14,8 @@ Me especializo en:
 - **Proyecto más reciente**: una API en **Express** con estructura modular, separación de responsabilidades y documentación clara.  
 - Conocimientos complementarios en **React, HTML y CSS**.  
 
-## 🚀 Objetivo  
+## Objetivo  
 
 Aportar **soluciones backend escalables** y escribir **código limpio**, mientras sigo aprendiendo de equipos innovadores.  
 
-📩 **Contacto:** [fedtasso@gmail.com](mailto:fedtasso@gmail.com)  
+**Contacto:** [fedtasso@gmail.com](mailto:fedtasso@gmail.com)  
