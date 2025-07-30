@@ -1,21 +1,19 @@
 # Sobre mí  
 
-Soy un profesional con 15 años de experiencia liderando proyectos educativos, actualmente en transición hacia el desarrollo backend. Durante los últimos años, he enfocado mis esfuerzos en aprender programación y construir proyectos técnicos utilizando **Python, Node.js y Express**, aplicando la misma disciplina y creatividad que empleaba en el aula.  
+Soy un profesional con más de 15 años de experiencia en proyectos educativos, actualmente integrándome activamente al desarrollo backend. En los últimos años me formé en programación y desarrollé múltiples proyectos técnicos, aplicando la misma disciplina, lógica y creatividad que cultivé en el ámbito educativo  
 
-Como docente, desarrollé habilidades clave para explicar conceptos técnicos de manera clara, adaptarme a entornos dinámicos y colaborar con equipos multidisciplinarios.  
+## Especialización en desarrolo Backend  
+▸ Desarrollo de APIs REST con Node.js / Express y Python / Flask
+▸ Manejo de bases de datos SQL, autenticación con JWT, sesiones y OAuth.
+▸ Integración de middlewares: validación de datos, manejo de errores, etc.
+▸ Programación orientada a objetos (POO), principios SOLID y Repository Pattern.
+▸ Documentación con Swagger, testing automatizado y loggers.
+▸ Uso de TypeScript, decoradores, TypeORM y tipado estricto.
+▸ Interés en la arquitectura y en el desarrollo de soluciones escalables.
+▸ Además cuento con conocimientos en React, HTML y CSS, lo que me permite entender el flujo completo de una aplicación web y colaborar en proyectos full stack.
 
-## Especialización en Backend  
-
-Me especializo en:  
-
-- **Desarrollo de APIs REST** con **Node.js/Express** y **Python/Flask** (arquitectura en capas: _rutas → controladores → servicios → modelos_).  
-- **Bases de datos SQL** | Autenticación con **JWT, sesiones y OAuth**.  
-- **Integración de middlewares** (ej: validación de datos, manejo de errores).  
-- **Proyecto más reciente**: una API en **Express** con estructura modular, separación de responsabilidades y documentación clara.  
-- Conocimientos complementarios en **React, HTML y CSS**.  
 
 ## Objetivo  
-
-Aportar **soluciones backend escalables** y escribir **código limpio**, mientras sigo aprendiendo de equipos innovadores.  
+Aportar soluciones **backend escalables**, seguras y bien estructuradas, integrándome a equipos técnicos donde pueda seguir creciendo profesionalmente.
 
 **Contacto:** [fedtasso@gmail.com](mailto:fedtasso@gmail.com)  
