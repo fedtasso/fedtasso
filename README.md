@@ -1,19 +1,30 @@
 # Sobre mí  
 
-Soy un profesional con más de 15 años de experiencia en proyectos educativos, actualmente integrándome activamente al desarrollo backend. En los últimos años me formé en programación y desarrollé múltiples proyectos técnicos, aplicando la misma disciplina, lógica y creatividad que cultivé en el ámbito educativo  
+Soy desarrollador en formación avanzada, con más de 15 años de experiencia en proyectos educativos y una transición sólida hacia el desarrollo backend. En los últimos años me especialicé en programación, creando APIs, sistemas backend y proyectos integrales donde aplico lógica, estructura y la misma disciplina profesional que desarrollé como docente.
 
-## Especialización en desarrolo Backend  
-- Desarrollo de APIs REST con Node.js / Express y Python / Flask.
-- Manejo de bases de datos SQL, autenticación con JWT, sesiones y OAuth.
-- Integración de middlewares: validación de datos, manejo de errores, etc.
-- Programación orientada a objetos (POO), principios SOLID y Repository Pattern.
-- Documentación con Swagger, testing automatizado y loggers.
-- Uso de TypeScript, decoradores, TypeORM y tipado estricto.
-- Interés en la arquitectura y en el desarrollo de soluciones escalables.
-- Además cuento con conocimientos en React, HTML y CSS, lo que me permite entender el flujo completo de una aplicación web y colaborar en proyectos full stack.
+---
 
+##  Enfoque en Desarrollo Backend  
 
-## Objetivo  
-Aportar soluciones **backend escalables**, seguras y bien estructuradas, integrándome a equipos técnicos donde pueda seguir creciendo profesionalmente.
+- Desarrollo de **APIs REST** con **Node.js - Express | Java - Spring Boot | Python - Flask**.  
+- Trabajo con **bases de datos SQL**: MySQL, PostgreSQL.  
+- Autenticación y seguridad: **JWT, bcrypt, OAuth**, manejo de sesiones.  
+- Integración de **middlewares**: validación, manejo de errores, sanitización, paginación, control de acceso.  
+- Programación **orientada a objetos (POO)**, principios **SOLID**, modularización y patrones como **Repository Pattern**.  
+- Documentación técnica con **Swagger / OpenAPI**.  
+- Testing automatizado con **Jest** y herramientas de logging como **Winston**.  
+- Uso de **TypeScript**, decoradores, tipado fuerte y herramientas como **TypeORM**.  
+- Interés particular en la **arquitectura**, la escalabilidad y el diseño de sistemas mantenibles.  
+- Conocimientos complementarios en **React, HTML y CSS**, permitiendo comprender el flujo completo de una aplicación y colaborar eficazmente en equipos full stack.
 
-**Contacto:** [fedtasso@gmail.com](mailto:fedtasso@gmail.com)  
+---
+
+## Objetivo profesional  
+
+Desarrollar soluciones **backend escalables, seguras y bien organizadas**, integrándome a equipos técnicos donde pueda aportar valor, seguir creciendo y consolidar mi carrera en el desarrollo de software.
+
+---
+
+## Contacto  
+
+**Email:** [fedtasso@gmail.com](mailto:fedtasso@gmail.com)
