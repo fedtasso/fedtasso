@@ -1,6 +1,6 @@
 # Sobre mí  
 
-Soy desarrollador en formación avanzada, con más de 15 años de experiencia en proyectos educativos y una transición sólida hacia el desarrollo backend. En los últimos años me especialicé en programación, creando APIs, sistemas backend y proyectos integrales donde aplico lógica, estructura y la misma disciplina profesional que desarrollé como docente.
+Soy desarrollador en formación avanzada, con más de 15 años de experiencia docente y una transición hacia el desarrollo backend. En los últimos años me especialicé en programación, creando APIs, sistemas backend y proyectos integrales donde aplico lógica, estructura y la misma disciplina profesional que desarrollé como docente.
 
 ---
 
